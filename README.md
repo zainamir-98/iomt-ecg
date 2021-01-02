@@ -1,2 +1,2 @@
-# iomt-ecg
-Semester project for Embedded System Design
+# IoMT-Based ECG Device for Monitoring Heart Rate and Heart Rate Variability
+
