@@ -25,8 +25,6 @@ Install the following python packages:
 
 Install the mosquitto broker on the RPi to allow it to act as an MQTT broker (a server). You can follow [this](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/) tutorial. Note that once you install mosquitto, the broker program will be running in the background each time you start-up the RPi.
 
-With this your RPi should be configured.
-
 ## Hardware
 * AD8232 ECG sensor
 * NodeMCU (ESP232)
