@@ -16,9 +16,14 @@ MATLAB's R wave detection [example](https://www.mathworks.com/help/wavelet/ug/r-
 
 ## RPi dependancies
 
-Install the mosquitto broker on the RPi to allow it to act as an MQTT broker (a server). You can follow [this](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/) tutorial. Note that once you install mosquitto, the broker program will be running in the background each time you start-up the RPi.
+Install the following python packages:
+* paho
+* scipy
+* statistics
+* numpy
+* matplotlib
 
-Next, install Paho MQTT (a Python package) on your RPi either through your IDE of choice (I used Thonny), or through the terminal. In this case, use `pip install paho-mqtt`. Note that you will have to run the .py script through the terminal if you choose not to use an IDE, which I haven't tested.
+Install the mosquitto broker on the RPi to allow it to act as an MQTT broker (a server). You can follow [this](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/) tutorial. Note that once you install mosquitto, the broker program will be running in the background each time you start-up the RPi.
 
 With this your RPi should be configured.
 
