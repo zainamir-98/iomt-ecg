@@ -1,7 +1,7 @@
 # IoMT-Based ECG Monitoring using an ESP8266 and a Raspberry Pi
 # Embedded System Design End-Of-Semester Project, SEECS, NUST
 
-# By: Zain Amir Zaman, Sardar Hassan Arfan Khan, Abdul Rehman Qamar Aftab
+# By: Zain Amir Zaman
 # Important: Run MQTT Broker on Terminal before running this program
 
 # Debug mode is enabled by default, which disables online and real-time functionality. Set debug to False to run as usual.
