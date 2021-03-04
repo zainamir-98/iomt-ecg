@@ -18,7 +18,7 @@ MATLAB's R wave detection [example](https://www.mathworks.com/help/wavelet/ug/r-
 
 <p align="center"><img src="https://github.com/zainamir-98/iomt-ecg/blob/main/ecg_sig.png" width="700"/></p>
 
-*Figure: A 10-second segment of the ECG signal filtered to enhance the R peaks. A peak detection algorithm locates and counts the number of R peaks, which is used to calculate the heart rate.*
+<p style="text-align: center;"><i>Figure: A 10-second segment of the ECG signal filtered to enhance the R peaks. A peak detection algorithm locates and counts the number of R peaks, which is used to calculate the heart rate.</i></p>
 
 
 ## RPi dependancies
